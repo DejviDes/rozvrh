@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+* {
+  font-family: Poppins;
+  font-weight: 400;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+th,
+td {
+  border: 1px solid #000;
+  padding: 10px;
+  text-align: center;
+}
+th {
+  font-weight: bold;
+}
+.event-lap-swim {
+  background-color: #9ac0cc; /* Light Blue */
+}
+.event-water-aerobics {
+  background-color: #87cfeb77; /* Sky Blue */
+}
+.event-swim-lessons {
+  background-color: #4682b4; /* Steel Blue */
+}
+.event-family-swim {
+  background-color: #6bbcbe; /* Cadet Blue */
+}
+.event-aquafitness {
+  background-color: #1e90ff; /* Dodger Blue */
+}
+.event-hydrotherapy {
+  background-color: #6495ed; /* Cornflower Blue */
+}
+.header {
+  background-color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+}
